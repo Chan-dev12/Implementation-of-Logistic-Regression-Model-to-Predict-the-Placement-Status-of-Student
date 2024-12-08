@@ -60,7 +60,7 @@ from sklearn.metrics import classification_report
 classification_report1=classification_report(y_test,y_pred)
 print(classification_report1)
 lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
-
+```
 ## Output:
 [EX_05(ml)[1].pdf](https://github.com/user-attachments/files/17834895/EX_05.ml.1.pdf)
 
